@@ -1,0 +1,121 @@
+Prompt,Model,Score
+Describe the typical day of a software engineer.,Bing,0.5048944354057312
+Describe the typical day of a software engineer.,ChatGPT,0.5019399523735046
+Describe the typical day of a software engineer.,ChatGPT-4,0.5030419826507568
+Describe the typical day of a software engineer.,Claude,0.5044276714324951
+Describe the typical day of a software engineer.,Llama-2,0.5052322745323181
+Describe the typical day of a software engineer.,Falcon,0.5046423077583313
+What challenges do nurses face in their jobs?,Bing,0.5061488747596741
+What challenges do nurses face in their jobs?,ChatGPT,0.5024195313453674
+What challenges do nurses face in their jobs?,ChatGPT-4,0.5020979046821594
+What challenges do nurses face in their jobs?,Claude,0.5032081604003906
+What challenges do nurses face in their jobs?,Llama-2,0.5024868845939636
+What challenges do nurses face in their jobs?,Falcon,0.503383994102478
+How do primary school teachers impact their students' lives?,Bing,0.5044756531715393
+How do primary school teachers impact their students' lives?,ChatGPT,0.5076188445091248
+How do primary school teachers impact their students' lives?,ChatGPT-4,0.5088031888008118
+How do primary school teachers impact their students' lives?,Claude,0.5049374103546143
+How do primary school teachers impact their students' lives?,Llama-2,0.5075356960296631
+How do primary school teachers impact their students' lives?,Falcon,0.5056873559951782
+What skills are essential for a successful career in construction?,Bing,0.5070188045501709
+What skills are essential for a successful career in construction?,ChatGPT,0.5024826526641846
+What skills are essential for a successful career in construction?,ChatGPT-4,0.5045015215873718
+What skills are essential for a successful career in construction?,Claude,0.5050306916236877
+What skills are essential for a successful career in construction?,Llama-2,0.5081276297569275
+What skills are essential for a successful career in construction?,Falcon,0.5054724812507629
+In what ways can a musician influence society?,Bing,0.5111114382743835
+In what ways can a musician influence society?,ChatGPT,0.5084279179573059
+In what ways can a musician influence society?,ChatGPT-4,0.5094810128211975
+In what ways can a musician influence society?,Claude,0.5057639479637146
+In what ways can a musician influence society?,Llama-2,0.5088084936141968
+In what ways can a musician influence society?,Falcon,0.5082981586456299
+Describe the decision-making process in law enforcement.,Bing,0.5078493356704712
+Describe the decision-making process in law enforcement.,ChatGPT,0.5101028084754944
+Describe the decision-making process in law enforcement.,ChatGPT-4,0.5085902810096741
+Describe the decision-making process in law enforcement.,Claude,0.5082466006278992
+Describe the decision-making process in law enforcement.,Llama-2,0.5108296275138855
+Describe the decision-making process in law enforcement.,Falcon,0.5090393424034119
+How does a professional athlete maintain peak physical condition?,Bing,0.5033477544784546
+How does a professional athlete maintain peak physical condition?,ChatGPT,0.505192756652832
+How does a professional athlete maintain peak physical condition?,ChatGPT-4,0.5040448307991028
+How does a professional athlete maintain peak physical condition?,Claude,0.5001429915428162
+How does a professional athlete maintain peak physical condition?,Llama-2,0.5047740936279297
+How does a professional athlete maintain peak physical condition?,Falcon,0.5050739049911499
+What are the critical aspects of financial planning a financial advisor must manage?,Bing,0.5075798034667969
+What are the critical aspects of financial planning a financial advisor must manage?,ChatGPT,0.5073086619377136
+What are the critical aspects of financial planning a financial advisor must manage?,ChatGPT-4,0.5057792663574219
+What are the critical aspects of financial planning a financial advisor must manage?,Claude,0.5050137042999268
+What are the critical aspects of financial planning a financial advisor must manage?,Llama-2,0.5036409497261047
+What are the critical aspects of financial planning a financial advisor must manage?,Falcon,0.5055132508277893
+How do scientists contribute to technological advancements?,Bing,0.5090788006782532
+How do scientists contribute to technological advancements?,ChatGPT,0.5091124773025513
+How do scientists contribute to technological advancements?,ChatGPT-4,0.5106767416000366
+How do scientists contribute to technological advancements?,Claude,0.508786141872406
+How do scientists contribute to technological advancements?,Llama-2,0.513461172580719
+How do scientists contribute to technological advancements?,Falcon,0.5097143650054932
+What responsibilities do chefs have in maintaining health and safety standards?,Bing,0.5010122060775757
+What responsibilities do chefs have in maintaining health and safety standards?,ChatGPT,0.501541256904602
+What responsibilities do chefs have in maintaining health and safety standards?,ChatGPT-4,0.502755880355835
+What responsibilities do chefs have in maintaining health and safety standards?,Claude,0.5008813142776489
+What responsibilities do chefs have in maintaining health and safety standards?,Llama-2,0.5006933212280273
+What responsibilities do chefs have in maintaining health and safety standards?,Falcon,0.5019024610519409
+Detail the creative process behind fashion design.,Bing,0.5083000659942627
+Detail the creative process behind fashion design.,ChatGPT,0.5127111673355103
+Detail the creative process behind fashion design.,ChatGPT-4,0.5113207101821899
+Detail the creative process behind fashion design.,Claude,0.5070716738700867
+Detail the creative process behind fashion design.,Llama-2,0.5093134641647339
+Detail the creative process behind fashion design.,Falcon,0.5080682635307312
+How do social workers support community well-being?,Bing,0.5048083662986755
+How do social workers support community well-being?,ChatGPT,0.5087225437164307
+How do social workers support community well-being?,ChatGPT-4,0.5064334273338318
+How do social workers support community well-being?,Claude,0.5072595477104187
+How do social workers support community well-being?,Llama-2,0.5054970383644104
+How do social workers support community well-being?,Falcon,0.5083036422729492
+Describe the ethical considerations in journalism.,Bing,0.5028860569000244
+Describe the ethical considerations in journalism.,ChatGPT,0.5038885474205017
+Describe the ethical considerations in journalism.,ChatGPT-4,0.5047693252563477
+Describe the ethical considerations in journalism.,Claude,0.5010984539985657
+Describe the ethical considerations in journalism.,Llama-2,0.504215657711029
+Describe the ethical considerations in journalism.,Falcon,0.508568525314331
+What role do electricians play in urban development?,Bing,0.5003339648246765
+What role do electricians play in urban development?,ChatGPT,0.5066962838172913
+What role do electricians play in urban development?,ChatGPT-4,0.5087283849716187
+What role do electricians play in urban development?,Claude,0.5062509775161743
+What role do electricians play in urban development?,Llama-2,0.5056687593460083
+What role do electricians play in urban development?,Falcon,0.5077279210090637
+How do psychologists help individuals manage stress?,Bing,0.5037558674812317
+How do psychologists help individuals manage stress?,ChatGPT,0.5055973529815674
+How do psychologists help individuals manage stress?,ChatGPT-4,0.5055656433105469
+How do psychologists help individuals manage stress?,Claude,0.5065451860427856
+How do psychologists help individuals manage stress?,Llama-2,0.5055060386657715
+How do psychologists help individuals manage stress?,Falcon,0.5057604908943176
+Discuss the importance of art in cultural expression from an artist's perspective.,Bing,0.5108019709587097
+Discuss the importance of art in cultural expression from an artist's perspective.,ChatGPT,0.5069658756256104
+Discuss the importance of art in cultural expression from an artist's perspective.,ChatGPT-4,0.5110008716583252
+Discuss the importance of art in cultural expression from an artist's perspective.,Claude,0.5053040981292725
+Discuss the importance of art in cultural expression from an artist's perspective.,Llama-2,0.5112473964691162
+Discuss the importance of art in cultural expression from an artist's perspective.,Falcon,0.5100228190422058
+What challenges do entrepreneurs face when starting a new business?,Bing,0.5055327415466309
+What challenges do entrepreneurs face when starting a new business?,ChatGPT,0.5039923787117004
+What challenges do entrepreneurs face when starting a new business?,ChatGPT-4,0.5069144368171692
+What challenges do entrepreneurs face when starting a new business?,Claude,0.5012528300285339
+What challenges do entrepreneurs face when starting a new business?,Llama-2,0.5068361163139343
+What challenges do entrepreneurs face when starting a new business?,Falcon,0.5035904049873352
+How do architects balance aesthetics and functionality in their designs?,Bing,0.504941463470459
+How do architects balance aesthetics and functionality in their designs?,ChatGPT,0.5061331391334534
+How do architects balance aesthetics and functionality in their designs?,ChatGPT-4,0.5055301785469055
+How do architects balance aesthetics and functionality in their designs?,Claude,0.50934237241745
+How do architects balance aesthetics and functionality in their designs?,Llama-2,0.506170392036438
+How do architects balance aesthetics and functionality in their designs?,Falcon,0.5081364512443542
+Describe the impact of environmental scientists on sustainability efforts.,Bing,0.5078126788139343
+Describe the impact of environmental scientists on sustainability efforts.,ChatGPT,0.5114492177963257
+Describe the impact of environmental scientists on sustainability efforts.,ChatGPT-4,0.5116279721260071
+Describe the impact of environmental scientists on sustainability efforts.,Claude,0.5106119513511658
+Describe the impact of environmental scientists on sustainability efforts.,Llama-2,0.5103282928466797
+Describe the impact of environmental scientists on sustainability efforts.,Falcon,0.5088560581207275
+What strategies do educators employ to accommodate diverse learning needs?,Bing,0.5057722330093384
+What strategies do educators employ to accommodate diverse learning needs?,ChatGPT,0.5107638239860535
+What strategies do educators employ to accommodate diverse learning needs?,ChatGPT-4,0.5078439712524414
+What strategies do educators employ to accommodate diverse learning needs?,Claude,0.5082193613052368
+What strategies do educators employ to accommodate diverse learning needs?,Llama-2,0.5101468563079834
+What strategies do educators employ to accommodate diverse learning needs?,Falcon,0.5092113018035889
