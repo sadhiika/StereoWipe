@@ -7,7 +7,7 @@ from datasets import load_dataset
 # Load the CrowS-Pairs dataset
 crows_pairs_dataset = load_dataset("crows-pairs", "all")
 
-# Load a pre-trained model for bias detection (e.g., a model trained on similar tasks)
+# Load a pre-trained model for bias detection
 model_name = "distilroberta-base"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(model_name)
